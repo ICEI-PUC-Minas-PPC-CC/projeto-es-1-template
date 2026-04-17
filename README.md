@@ -4,10 +4,11 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Methodology](https://img.shields.io/badge/methodology-Lean_Inception_%2F_PBB-blueviolet)
+![Architecture](https://img.shields.io/badge/architecture-Clean_Architecture-orange)
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue)
 ![Framework](https://img.shields.io/badge/framework-Flask-lightgrey)
-![Architecture](https://img.shields.io/badge/architecture-Clean_Architecture-orange)
-![Methodology](https://img.shields.io/badge/methodology-Lean_Inception_%2F_PBB-blueviolet)
+
 
 Este repositório serve como alicerce para o desenvolvimento de soluções robustas, priorizando a compreensão do domínio de negócio antes da implementação técnica. Nesta versão, a stack de referência é **Python com Flask**, utilizando a Inteligência Artificial como uma ferramenta de **geração de código** e **orquestração arquitetural**.
 
@@ -94,4 +95,4 @@ Caso opte por migrar este template para outra tecnologia (ex: Node.js, .NET, Rub
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [`LICENSE`](LICENSE.md) para mais detalhes.
