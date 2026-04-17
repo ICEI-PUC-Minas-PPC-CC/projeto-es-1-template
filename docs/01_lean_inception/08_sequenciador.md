@@ -21,4 +21,4 @@
 * **[Onda 3]:** 
 
   ---
-  [⬅ Anterior](06_07_jornadas_dos_usuarios_funcionalidades_nas_jornadas.md) | [Próximo ➡](01_lean_inception/09_canvas_mvp.md)
+  [⬅ Anterior](06_07_jornadas_dos_usuarios_funcionalidades_nas_jornadas.md) | [Próximo ➡](09_canvas_mvp.md)
