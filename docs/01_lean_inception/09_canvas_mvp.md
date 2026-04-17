@@ -24,4 +24,4 @@
 * [Tempo estimado em semanas/sprints e esforço da equipe]
 
 ---
-  [⬅ Anterior](docs/01_lean_inception/08_sequenciador.md)
+  [⬅ Anterior](08_sequenciador.md)
