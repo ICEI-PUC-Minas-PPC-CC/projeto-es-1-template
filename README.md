@@ -1,6 +1,6 @@
 # 🚀 [NOME DO PRODUTO]
 
-> **Template Base para Engenharia de Software Moderna e Desenvolvimento Orientado por Especificação (SDD).**
+> **Template-base da disciplina de Engenharia de Software I, do curso de Ciência da Computação da PUC Minas (Unidade Poços de Caldas).**
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -10,7 +10,7 @@
 ![Framework](https://img.shields.io/badge/framework-Flask-lightgrey)
 
 
-Este repositório serve como alicerce para o desenvolvimento de soluções robustas, priorizando a compreensão do domínio de negócio antes da implementação técnica. Nesta versão, a stack de referência é **Python com Flask**, utilizando a Inteligência Artificial como uma ferramenta de **geração de código** e **orquestração arquitetural**.
+Este repositório serve como ponto de partida para o desenvolvimento de soluções robustas, priorizando a compreensão do domínio de negócios antes da implementação técnica. Nesta versão, a base tecnológica de referência é **Python com Flask**.
 
 ---
 
