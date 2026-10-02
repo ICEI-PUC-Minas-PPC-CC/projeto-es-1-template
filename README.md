@@ -7,8 +7,6 @@
 
 Este repositório é o ponto de partida para desenvolver soluções robustas, priorizando a compreensão do domínio de negócios antes da implementação técnica.
 
----
-
 ## 👥 Equipe
 
 Informe os nomes dos integrantes do grupo deste projeto:
@@ -21,8 +19,6 @@ Informe os nomes dos integrantes do grupo deste projeto:
 - [Nome Completo] - [GitHub/LinkedIn]
 - [Nome Completo] - [GitHub/LinkedIn]
 
----
-
 ## 🏗️ Etapas do Projeto
 
 O desenvolvimento estrutura-se em etapas interdependentes, o que garante a rastreabilidade desde a concepção até a entrega contínua.
@@ -33,12 +29,10 @@ Foco na fase de Descoberta (Discovery) para a elaboração da versão inicial do
 
 #### Artefatos:
 
-- [`/docs/01_descoberta/01_visao_do_produto.md`](./docs/01_concepcao/01_visao_do_produto.md)
-- [`/docs/01_descoberta/02_personas.md`](./docs/01_concepcao/02_personas.md)
-- [`/docs/01_descoberta/03_product_backlog.md`](./docs/01_concepcao/03_product_backlog.md)
-- [`/docs/01_descoberta/99_video_etapa_1.md`](./docs/01_concepcao/99_video_etapa_1.md)
-
----
+- [`/docs/01_descoberta/01_visao_do_produto.md`](./docs/01_descoberta/01_visao_do_produto.md)
+- [`/docs/01_descoberta/02_personas.md`](./docs/01_descoberta/02_personas.md)
+- [`/docs/01_descoberta/03_product_backlog.md`](./docs/01_descoberta/03_product_backlog.md)
+- [`/docs/01_descoberta/99_video_etapa_1.md`](./docs/01_descoberta/99_video_etapa_1.md)
 
 ## 📄 Licença
 
