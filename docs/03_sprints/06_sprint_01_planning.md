@@ -1,1 +1,0 @@
-# Planejamento da Sprint 1
