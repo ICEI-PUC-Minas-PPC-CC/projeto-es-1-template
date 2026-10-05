@@ -2,7 +2,7 @@
 
 ## 1. Product Backlog Itens
 
-> O objetivo desta tarefa é elaborar a versão preliminar do backlog do produto com dez funcionalidades que atendam às necessidades do usuário. Utilize os modelos de tabela a seguir.
+> O objetivo desta tarefa é elaborar a versão preliminar do backlog do produto, contendo dez funcionalidades que atendam às necessidades do usuário. Utilize os modelos de tabela a seguir.
 
 | #   | Persona (Quem) | Dor/Necessidade (Por Quê) | Expectativa (Para Quê) | Funcionalidade (O Quê - Ação) |
 | --- | -------------- | ------------------------- | ---------------------- | ----------------------------- |
@@ -19,7 +19,7 @@
 
 ## 2. Revisão Técnica, UX e Negócios
 
-> Avalie as funcionalidades listadas na tabela anterior com base em quatro perspectivas: Valor para o Negócio, Esforço Técnico de Implementação, Experiência do Usuário (UX) e Nível de Confiança (O que/Como).
+> Avalie as funcionalidades listadas na tabela anterior com base em quatro perspectivas: Valor para o Negócio, Esforço Técnico de Implementação, Experiência do Usuário (UX) e Nível de Confiança (O quê / Como).
 
 **Métricas:**
 
@@ -46,9 +46,9 @@
 - **...**
 - **F10:** Justificativa da racionalidade.
 
-## 3. Product Backlog (priorizado)
+## 3. Product Backlog Itens (priorizado)
 
-> Liste os itens do backlog do produto priorizados conforme as regras do sequenciador vistas em aula, ordenando-os da maior para a menor prioridade dentro de cada onda.
+> Liste os itens do backlog do produto, priorizados conforme as regras do sequenciador vistas em aula. Ordene-os da maior para a menor prioridade dentro de cada onda.
 
 **Regras do Sequenciador:**
 
@@ -67,6 +67,15 @@
 | **...** |                    | ...         | ...                 | ...                                  |                                     |      |
 | -       |                    |             |                     |                                      |                                     |      |
 
+## 4. Especificação Suplementar de Requisitos Não Funcionais
+
+> Especifique os requisitos não funcionais do produto de software, certificando-se de que atendam aos critérios SMART.
+
+| Requisito não-funcional | Descrição                                                                                                 | Categoria       | Prioridade |
+| :---------------------- | :-------------------------------------------------------------------------------------------------------- | :-------------- | :--------- |
+| RNF.1                   | O tempo de resposta para todas as operações de pesquisa por palavra-chave não deverá exceder a 5 segundos | Desempenho      | Alta       |
+| RNF.2                   | O produto de software deverá ser compatível com o navegador Chrome (versão >= 100).                       | Suportabilidade | Alta       |
+
 ---
 
-[⬅ Anterior](01_visao_produto.md) | [Próximo ➡](99_video_etapa_1.md)
+[⬅ Anterior](01_visao_do_produto.md) | [Próximo ➡](99_video_etapa_1.md)

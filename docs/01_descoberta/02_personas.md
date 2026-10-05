@@ -1,6 +1,6 @@
 # 3. Descrição das Personas
 
-> Representa um usuário do produto ou serviço, descrevendo não só o seu papel, mas também as necessidades específicas. A descrição da persona será realizada considerando o nome da persona (opcionalmente, com foto ou desenho), perfil, dores/necessidades e expectativas.
+> A persona representa um usuário do produto ou serviço, descrevendo não apenas o seu papel, mas também suas necessidades específicas. Sua descrição deve incluir nome (com foto ou ilustração opcional), perfil, dores e expectativas.
 
 ## Persona 1: [Nome da Persona]
 

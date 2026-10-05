@@ -1,6 +1,6 @@
 # 1. Visão do Produto
 
-> Ter uma visão clara do produto é essencial...
+> Ter uma visão clara do produto é essencial. Escreva-a no seguinte formato:
 
 - **Para** [o nome do cliente final],
 - **cujo** [o problema que precisa ser resolvido].
